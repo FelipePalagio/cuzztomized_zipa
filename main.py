@@ -1,4 +1,4 @@
-def zap(a, b):
+def zapa(a, b):
     fin = []
     lenny = len(a)
     for i in range(lenny):
